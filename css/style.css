@@ -227,3 +227,11 @@ body{
 	text-align: center;
 	
 }
+.line1 a:hover {
+	background-color: purple;
+	transition: all 0.3s linear;
+}
+.line2 a:hover {
+	background-color: purple;
+	transition: all 0.3s linear;
+}
