@@ -1,0 +1,156 @@
+body{
+	padding-top: 127px;
+}
+/*header*/
+.header{
+	background-color: #f2f2f2;
+	padding: 50px;
+	width: 100%;
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 100;
+
+}
+.box-wrapper{
+	display: flex;
+	justify-content: space-between;
+}
+.ul{
+	width: 400px;
+	display: flex;
+	justify-content: space-between;
+
+}
+.li{
+	font-size: 15px;
+
+
+}
+.logo{
+	font-size: 27px;
+	color: #4B647E;
+}
+.web{
+	color: #3D37F1;
+}
+.li-text{
+	color: #3D37F1;
+}
+/*header-end*/
+/*section1 */
+.conteiner{
+	width: 1600px;
+	margin: 0 auto;
+}
+.block1-wave{
+	background-color: #3D37F1;
+	width: 150px;
+	height: 40px;
+	border-radius: 35px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+.wave-text{
+	color: white;
+}
+.block-wrapper{
+	display: flex;
+	justify-content: space-between;
+
+}
+.h2-title{
+	font-size: 50px;
+	width: 400px;
+	margin-top: 200px;
+	margin-bottom: 30px;
+	color: #534D4D;
+	
+}
+.p-text{
+	margin-bottom: 90px;
+	color: #534D4D;
+}
+.pc-img{
+	margin-top: 200px;
+}
+/*section1 - end*/
+
+/*section2 */
+.middle{
+	text-align: center;
+	margin-top:82px;
+}
+.h4-title{
+	color: #3D37F1;
+	font-size: 15px;
+}
+.h2-title2{
+	color: #5A5454;
+	font-size: 35px;
+	margin-top: 17px;
+}
+.p-text2{
+	color: #5A5454;
+	font-size: 13px;
+	
+}
+.p-div{
+	margin-top: 21px;
+}
+.sec2-box-wrapper{
+	margin-top: 60px;
+
+	display:  flex;
+	justify-content: space-around;
+	
+}
+.sec2-box-wrapper2{
+	margin-top: 40px;
+
+	display:  flex;
+	justify-content: space-around;
+	
+}
+.block1{
+	background-color: #FBBA77;
+	width: 400px;
+	height: 500px;
+}
+.block2{
+	background-color: #41EAE3;
+	width: 400px;
+	height: 500px;
+}
+.block3{
+	background-color: #69529F;
+	width: 400px;
+	height: 500px;
+}
+.block4{
+	background-color: #4386D2;
+	width: 400px;
+	height: 500px;
+}
+.block5{
+	background-color: #A5A2F6;
+	width: 400px;
+	height: 500px;
+}
+.block6{
+	background-color: #FF8088;
+	width: 400px;
+	height: 500px;
+}
+.read-more{
+	background-color: white;
+	width: 120px;
+	height: 40px;
+	border-radius: 20px;
+}
+.p-read{
+	color: black;
+	text-align: center;
+	
+}
